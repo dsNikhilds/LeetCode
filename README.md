@@ -3,7 +3,7 @@
 This repository is a collection of all the LeetCode questions I attempted successfully.
 
 
-| # | Title | Solution | Difficulty |
+| # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
 |5|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Find%20customer%20refree)|Easy|
 |4|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Customer%20who%20never%20order)|Easy|
