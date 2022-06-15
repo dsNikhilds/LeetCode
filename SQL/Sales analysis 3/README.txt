@@ -71,6 +71,8 @@ The product with id 3 was sold after spring 2019.
 We return only product 1 as it is the product that was only sold in the spring of 2019.
 
 ===================================================================================================
+Solution
+===================================================================================================
 
 SELECT
     product_id,
