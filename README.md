@@ -5,6 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
+|7|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Reformat%20Department%20Table)|Easy|
 |6|[Sales analysis 3](https://leetcode.com/problems/sales-analysis-iii/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Sales%20analysis%203)|Easy|
 |5|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Find%20customer%20refree)|Easy|
 |4|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Customer%20who%20never%20order)|Easy|
