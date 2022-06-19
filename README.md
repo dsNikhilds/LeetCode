@@ -5,7 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
-|10|[Combine Two Tables]([https://leetcode.com/problems/bank-account-summary-ii/](https://leetcode.com/problems/combine-two-tables/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Combine%20Two%20Tables)|Easy|
+|10|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Combine%20Two%20Tables)|Easy|
 |9|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Find%20Total%20Time%20Spent%20by%20Each%20Employee)|Easy|
 |8|[Bank Account Summary 2](https://leetcode.com/problems/bank-account-summary-ii/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/BANK%20ACCOUNT%20SUMMARY%202)|Easy|
 |7|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Reformat%20Department%20Table)|Easy|
