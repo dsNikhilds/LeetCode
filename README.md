@@ -5,6 +5,10 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
+|16|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Fix%20Names%20in%20a%20Table)|Easy|
+|15|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Swap%20Salary)|Easy|
+|14|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Delete%20Duplicate%20Emails)|Easy|
+|13|[Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Calculate%20Special%20Bonus)|Easy|
 |12|[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Daily%20Leads%20and%20Partners)|Easy|
 |11|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Customer%20Placing%20the%20Largest%20Number%20of%20Orders)|Easy|
 |10|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Combine%20Two%20Tables)|Easy|
