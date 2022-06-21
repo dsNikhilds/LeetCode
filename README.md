@@ -5,6 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
+|11|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Customer%20Placing%20the%20Largest%20Number%20of%20Orders)|Easy|
 |10|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Combine%20Two%20Tables)|Easy|
 |9|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Find%20Total%20Time%20Spent%20by%20Each%20Employee)|Easy|
 |8|[Bank Account Summary 2](https://leetcode.com/problems/bank-account-summary-ii/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/BANK%20ACCOUNT%20SUMMARY%202)|Easy|
