@@ -5,7 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
-|20|[Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Big%20countries)|Easy|
+|20|[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Employees%20With%20Missing%20Information)|Easy|
 |19|[Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Patients%20With%20a%20Condition)|Easy|
 |18|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Group%20Sold%20Products%20By%20The%20Date)|Easy|
 |17|[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Rearrange%20Products%20Table)|Easy|
