@@ -3,7 +3,7 @@
 This repository is a collection of all the LeetCode questions I attempted successfully.
 
 
-| # | Title | Language | Difficulty |
+| # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |20|[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Employees%20With%20Missing%20Information)|Easy|
 |19|[Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Patients%20With%20a%20Condition)|Easy|
