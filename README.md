@@ -6,7 +6,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
 |20|[Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Big%20countries)|Easy|
-|19|[Patients With a Condition]([https://leetcode.com/problems/big-countries/](https://leetcode.com/problems/patients-with-a-condition/)) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Patients%20With%20a%20Condition)|Easy|
+|19|[Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Patients%20With%20a%20Condition)|Easy|
 |18|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Group%20Sold%20Products%20By%20The%20Date)|Easy|
 |17|[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Rearrange%20Products%20Table)|Easy|
 |16|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Fix%20Names%20in%20a%20Table)|Easy|
