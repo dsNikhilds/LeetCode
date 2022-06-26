@@ -5,7 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|21|[Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Sales%20Person)|Easy|
+|22|[Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Sales%20Person)|Easy|
 |21|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Not%20Boring%20Movies)|Easy|
 |20|[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Employees%20With%20Missing%20Information)|Easy|
 |19|[Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Patients%20With%20a%20Condition)|Easy|
