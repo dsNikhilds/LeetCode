@@ -5,6 +5,9 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|28|[Top Travellers](https://leetcode.com/problems/top-travellers/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Top%20Travellers)|Easy|
+|27|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Rising%20Temperature)|Easy|
+|26|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Employees%20Earning%20More%20Than%20Their%20Managers)|Easy|
 |25|[User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/User%20Activity%20for%20the%20Past%2030%20Days%20I)|Easy|
 |24|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times)|Easy|
 |23|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Game%20Play%20Analysis%20I)|Easy|
