@@ -5,6 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|30|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions)|Easy|
 |29|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Nth%20Highest%20Salary)|Medium|
 |28|[Top Travellers](https://leetcode.com/problems/top-travellers/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Top%20Travellers)|Easy|
 |27|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Rising%20Temperature)|Easy|
