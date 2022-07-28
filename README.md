@@ -5,6 +5,8 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|38|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Exchange%20Seats)|Medium|
+|37|[Rank Scores](https://leetcode.com/problems/rank-scores/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Rank%20Scores)|Medium|
 |36|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Duplicate%20Emails)|Easy|
 |35|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/submissions/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Department%20Highest%20Salary)|Medium|
 |34|[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/The%20Latest%20Login%20in%202020)|Easy|
