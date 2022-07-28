@@ -5,6 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|28|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Nth%20Highest%20Salary)|Medium|
 |28|[Top Travellers](https://leetcode.com/problems/top-travellers/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Top%20Travellers)|Easy|
 |27|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Rising%20Temperature)|Easy|
 |26|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Employees%20Earning%20More%20Than%20Their%20Managers)|Easy|
