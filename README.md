@@ -5,6 +5,12 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|36|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Duplicate%20Emails)|Easy|
+|35|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/submissions/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Department%20Highest%20Salary)|Medium|
+|34|[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/The%20Latest%20Login%20in%202020)|Easy|
+|33|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Second%20Highest%20Salary)|Medium|
+|32|[Tree Node](https://leetcode.com/problems/tree-node/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Tree%20Node)|Medium|
+|31|[Article Views I](https://leetcode.com/problems/article-views-i/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Article%20Views%20I)|Easy|
 |30|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions)|Easy|
 |29|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Nth%20Highest%20Salary)|Medium|
 |28|[Top Travellers](https://leetcode.com/problems/top-travellers/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Top%20Travellers)|Easy|
