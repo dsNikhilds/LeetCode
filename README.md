@@ -2,7 +2,7 @@
 
 This repository is a collection of all the SQL & Python questions I attempted.
 
-| # | Title | Solution | Difficulty |
+| # | Title | Solution | Difficulty | 
 |---| ----- | -------- | ---------- |
 
 |41|[Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Unfinished%20Parts)|Easy|
