@@ -5,6 +5,7 @@ This repository is a collection of all the LeetCode questions I attempted succes
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|39|[Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [SQL](https://github.com/dsNikhilds/LeetCode/edit/main/SQL/Histogram%20of%20Tweets)|Medium|
 |38|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Exchange%20Seats)|Medium|
 |37|[Rank Scores](https://leetcode.com/problems/rank-scores/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Rank%20Scores)|Medium|
 |36|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Duplicate%20Emails)|Easy|
