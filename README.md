@@ -5,6 +5,7 @@ This repository is a collection of all the SQL & Python questions I attempted.
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 
+|41|[Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Unfinished%20Parts)|Easy|
 |40|[Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Page%20With%20No%20Likes)|Easy|
 |39|[Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [SQL](https://github.com/dsNikhilds/LeetCode/edit/main/SQL/Histogram%20of%20Tweets)|Easy|
 |38|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [SQL](https://github.com/dsNikhilds/LeetCode/tree/main/SQL/Exchange%20Seats)|Medium|
